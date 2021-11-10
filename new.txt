@@ -1,0 +1,2 @@
+another text. 
+Prøver at pull denne text i denne mappe på min computer EFTER jeg har clonet 
