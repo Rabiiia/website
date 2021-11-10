@@ -1,4 +1,0 @@
-Hej der, 
-Min ordentligt første gh-pages. 
-Jeg har fjernet master branch by default.
-gh-pages er min master branch.
